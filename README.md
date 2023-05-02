@@ -36,10 +36,14 @@
 
 # Table of Contents
 
+    •  Live Deployment
     •  Libraries and Dependencies
     •  Installation
     •  Resources
     •  Preview
+
+# Live Deployment
+    https://smovies-and-trailers.netlify.app/
 
 # Libraries and Dependencies
 
