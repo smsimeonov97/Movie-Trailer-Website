@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+# SMovieS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+    Responsive React Application With Movie API
 
-## Available Scripts
+# Description
 
-In the project directory, you can run:
+    Welcome to my movie-trailer-watching website, a platform designed to provide you with a seamless and enjoyable experience when it comes to watching movie trailers.
+    As a movie enthusiast, I understand the frustration of having to search for trailers on different platforms or not being able to find the trailer you're looking for at all. That's why I created this website to provide a centralized platform where you can easily find and watch the latest and greatest movie trailers worldwide.
+    The website is designed with simplicity and ease of use in mind, ensuring that users of all ages and backgrounds can navigate it with ease. Using our search bar, you can search top-rated movie/series trailers for specific titles. We have a vast collection of trailers, including upcoming blockbusters, indie films, different TV series, and classics.
+    We also take pride in ensuring that our website is always up-to-date with the latest movie/TV series trailers. Our website is designed with user privacy and security in mind. We take appropriate measures to safeguard user data, and we do not share your data with third-party advertisers or any other third-party entities.
+    In terms of technology, our website has a landing page and four sub-pages, where one of them being the Contact page, which has a form with input validation, all linked via React-Routing. It is a component-based project architecture built using an API and modern web technologies, such as ReactJS, ensuring fast load times and responsive design across all devices.
+    In conclusion, my movie-trailer-watching website is a centralized platform designed to provide a seamless and enjoyable experience when it comes to watching top-rated movie/TV series trailers. With our vast collection of trailers and user-friendly interface, we hope to become your go-to platform for all your movie trailer needs.
 
-### `npm start`
+# Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+    •  Libraries and Dependencies
+    •  Installation
+    •  Resources
+    •  Preview
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Libraries and Dependencies
 
-### `npm test`
+    The following libraries and dependencies were used in the development of this project:
+    •	ReactJS: A JavaScript library for building user interfaces. Version 17.0.2. https://reactjs.org/
+    •	ReactDom: A package that provides DOM-specific methods for React components. Version 17.0.2. https://reactjs.org/docs/react-dom.html
+    •	React Router DOM: A popular routing library for React applications that provides client-side routing capabilities. Version 5.3.4. https://reactrouter.com/web/guides/quick-start
+    •	Axios: A promise-based HTTP client for the browser and Node.js. Version 0.22.0.  https://github.com/axios/axios
+    •	JavaScript XML (JSX): A syntax extension for JavaScript that allows you to write HTML-like code within your JavaScript files. https://reactjs.org/docs/introducing-jsx.html
+    •	SASS: A pre-processor scripting language that is compiled into CSS. Version 1.42.1 https://sass-lang.com/
+    •	Swiper: A modern touch slider that is compatible with all modern browsers and supports touch gestures. Version 6.8.4. https://swiperjs.com/
+    •	React Social Icons: A set of social media icons for React. Version 4.1.0. https://github.com/jaketrent/react-social-icons
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Installation:
 
-### `npm run build`
+    To run our project through the terminal, please follow the steps below:
+    1.	First, ensure that you have the latest version of Node.js installed on your machine. You can download it from the official website: https://nodejs.org/en/download/.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    2.	Next, clone the project repository from GitHub using the following command in your terminal:
+    -------------------------------------image-----------------------------------
+    Replace ‘’your-username’’ and ‘’your-repo’’ with your actual GitHub username and repository name.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    3.	Navigate to the project directory using the following command:
+    -------------------------------------image-----------------------------------Replace ‘’your-repo’’ with the name of your project directory.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    4.	Install the project dependencies using the following command:
+    -------------------------------------image-----------------------------------This will install all the required dependencies specified in the package.json file.
 
-### `npm run eject`
+    5.	Once the installation is complete, you can start the development server using the following command:
+    -------------------------------------image-----------------------------------
+    This will create a production-ready build in the “build” folder.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+    If you receive the following issue, when you do the npm start:
+    Error:0308010C:digital envelope routines::unsupported
+    Follow the solutions within the link below:
+    https://itsmycode.com/error-digital-envelope-routines-unsupported/
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Resources
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+    The following resources were used in the development of this project:
+    •	Google Fonts: Used to add custom fonts to the website. https://fonts.google.com/
+    •	Boxicons: Used for icons on the website. https://boxicons.com/
+    •	The Movie Database (TMDb) API: Used to retrieve movie information and movie trailers. https://www.themoviedb.org/
+    •	React Documentation: https://reactjs.org/docs/getting-started.html
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Preview
 
-## Learn More
+!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721197-be990f3a-cae2-4757-9eb7-c0796f4a3834.png "Responsive React Movies App With API")
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721135-f64988cf-af31-495f-988c-c24ab10cbade.png "Responsive React Movies App With API")
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721056-733be8a6-7af6-424b-a74e-eb65980a5464.png "Responsive React Movies App With API")
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+!["Responsive React Movies App With API"](https://user-images.githubusercontent.com/67447840/136721118-cf5c59d2-31ff-4b06-86cb-262dd1b655fc.png "Responsive React Movies App With API")

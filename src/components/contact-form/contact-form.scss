@@ -1,0 +1,35 @@
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  padding: 5rem 2rem;
+  border: 1.5px solid rgba(90, 218, 134, 0.5607843137);
+  border-radius: 30px;
+  max-width: 400px;
+  margin: 0 auto;
+  margin-top: 178px;
+  position: relative;
+  background-image: url("../../assets/contact-bg.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  padding: 0.5rem;
+  border-radius: 7px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.form-container label {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.form-container button {
+  margin-top: 30px;
+}
