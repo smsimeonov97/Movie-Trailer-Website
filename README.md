@@ -24,8 +24,9 @@
     third-party advertisers or any other third-party entities.
     
     In terms of technology, our website has a landing page and four sub-pages, where 
-    one of them being the Contact page, which has a form with input validation, all linked via React-Routing. It is a component-based project architecture built using an API and 
-    modern web technologies, such as ReactJS, ensuring fast load times and responsive 
+    one of them being the Contact page, which has a form with input validation,
+    all linked via React-Routing. It is a component-based project architecture built using
+    an API and modern web technologies, such as ReactJS, ensuring fast load times and responsive 
     design across all devices.
     
     In conclusion, my movie-trailer-watching website is a centralized platform designed to
