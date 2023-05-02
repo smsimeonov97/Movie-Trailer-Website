@@ -7,15 +7,31 @@
     Welcome to my movie-trailer-watching website, a platform designed to provide you with 
     a seamless and enjoyable experience when it comes to watching movie trailers.
     
-    As a movie enthusiast, I understand the frustration of having to search for trailers on different platforms or not being able to find the trailer you're looking for at all. That's why I created this website to provide a centralized platform where you can easily find and watch the latest and greatest movie trailers worldwide.
+    As a movie enthusiast, I understand the frustration of having to search for trailers 
+    on different platforms or not being able to find the trailer you're looking for at all.
+    That's why I created this website to provide a centralized platform where you can easily
+    find and watch the latest and greatest movie trailers worldwide.
     
-    The website is designed with simplicity and ease of use in mind, ensuring that users of all ages and backgrounds can navigate it with ease. Using our search bar, you can search top-rated movie/series trailers for specific titles. We have a vast collection of trailers, including upcoming blockbusters, indie films, different TV series, and classics.
+    The website is designed with simplicity and ease of use in mind, ensuring that 
+    users of all ages and backgrounds can navigate it with ease. Using our search bar,
+    you can search top-rated movie/series trailers for specific titles. We have a vast
+    collection of trailers, including upcoming blockbusters, indie films, different 
+    TV series, and classics.
     
-    We also take pride in ensuring that our website is always up-to-date with the latest movie/TV series trailers. Our website is designed with user privacy and security in mind. We take appropriate measures to safeguard user data, and we do not share your data with third-party advertisers or any other third-party entities.
+    We also take pride in ensuring that our website is always up-to-date with the latest
+    movie/TV series trailers. Our website is designed with user privacy and security in mind.
+    We take appropriate measures to safeguard user data, and we do not share your data with 
+    third-party advertisers or any other third-party entities.
     
-    In terms of technology, our website has a landing page and four sub-pages, where one of them being the Contact page, which has a form with input validation, all linked via React-Routing. It is a component-based project architecture built using an API and modern web technologies, such as ReactJS, ensuring fast load times and responsive design across all devices.
+    In terms of technology, our website has a landing page and four sub-pages, where 
+    one of them being the Contact page, which has a form with input validation, all linked via React-Routing. It is a component-based project architecture built using an API and 
+    modern web technologies, such as ReactJS, ensuring fast load times and responsive 
+    design across all devices.
     
-    In conclusion, my movie-trailer-watching website is a centralized platform designed to provide a seamless and enjoyable experience when it comes to watching top-rated movie/TV series trailers. With our vast collection of trailers and user-friendly interface, we hope to become your go-to platform for all your movie trailer needs.
+    In conclusion, my movie-trailer-watching website is a centralized platform designed to
+    provide a seamless and enjoyable experience when it comes to watching top-rated movie/TV
+    series trailers. With our vast collection of trailers and user-friendly interface, 
+    we hope to become your go-to platform for all your movie trailer needs.
 
 # Table of Contents
 
