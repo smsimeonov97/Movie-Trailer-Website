@@ -4,7 +4,8 @@
 
 # Description
 
-    Welcome to my movie-trailer-watching website, a platform designed to provide you with a seamless and enjoyable experience when it comes to watching movie trailers.
+    Welcome to my movie-trailer-watching website, a platform designed to provide you with 
+    a seamless and enjoyable experience when it comes to watching movie trailers.
     
     As a movie enthusiast, I understand the frustration of having to search for trailers on different platforms or not being able to find the trailer you're looking for at all. That's why I created this website to provide a centralized platform where you can easily find and watch the latest and greatest movie trailers worldwide.
     
@@ -27,25 +28,34 @@
 
     The following libraries and dependencies were used in the development of this project:
     
-    •	ReactJS: A JavaScript library for building user interfaces. Version 17.0.2. https://reactjs.org/
-      
-    •	ReactDom: A package that provides DOM-specific methods for React components.Version 17.0.2 https://reactjs.org/docs/react-dom.html
-      
-    •	React Router DOM: A popular routing library for React applications that provides client-side routing capabilities. Version 5.3.4. https://reactrouter.com/web/guides/quick-start
-      
-    •	Axios: A promise-based HTTP client for the browser and Node.js. Version 0.22.0.  https://github.com/axios/axios
-      
-    •	JavaScript XML (JSX): A syntax extension for JavaScript that allows you to write HTML-like code within your JavaScript files.  https://reactjs.org/docs/introducing-jsx.html
-      
-    •	SASS: A pre-processor scripting language that is compiled into CSS. Version 1.42.1 https://sass-lang.com/
-      
-    •	Swiper: A modern touch slider that is compatible with all modern browsers and supports touch gestures. Version 6.8.4. https://swiperjs.com/
-      
-    •	React Social Icons: A set of social media icons for React. Version 4.1.0. https://github.com/jaketrent/react-social-icons
+    •	ReactJS: A JavaScript library for building user interfaces. 
+            Version 17.0.2. https://reactjs.org/
+
+    •	ReactDom: A package that provides DOM-specific methods for React components.
+            Version 17.0.2 https://reactjs.org/docs/react-dom.html
+
+    •	React Router DOM: A popular routing library for React applications that provides client-side routing capabilities. 
+            Version 5.3.4. https://reactrouter.com/web/guides/quick-start 
+
+    •	Axios: A promise-based HTTP client for the browser and Node.js. 
+            Version 0.22.0.  https://github.com/axios/axios 
+
+    •	JavaScript XML (JSX): A syntax extension for JavaScript that allows you to write HTML-like code within your JavaScript files.  
+            https://reactjs.org/docs/introducing-jsx.html
+
+    •	SASS: A pre-processor scripting language that is compiled into CSS. 
+            Version 1.42.1 https://sass-lang.com/
+
+    •	Swiper: A modern touch slider that is compatible with all modern browsers and supports touch gestures. 
+            Version 6.8.4. https://swiperjs.com/ 
+
+    •	React Social Icons: A set of social media icons for React. 
+            Version 4.1.0. https://github.com/jaketrent/react-social-icons
 
 # Installation:
 
     To run our project through the terminal, please follow the steps below:
+
     1.	First, ensure that you have the latest version of Node.js installed on your machine. 
             You can download it from the official website: https://nodejs.org/en/download/.
 
